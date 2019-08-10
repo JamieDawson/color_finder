@@ -1,0 +1,3 @@
+text (Color_one) {
+  description (text value for first color)
+}

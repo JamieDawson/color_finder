@@ -1,0 +1,5 @@
+train (t-dk5ku5393f6xshl76a2m3no8c) {
+  utterance ("[g:My_search] What color do I get when I mix (red)[v:Color_one] and (blue)[v:Color_two]")
+  plan (Y2BhkCrISaxML8ovzUvRS87PyS/ScwaR8SXl+VjkfCvji1MTi5IzcOrLz0vFayYzAyMDE5BkANIgCAFwUQA=)
+  last-modified (1564693892629)
+}

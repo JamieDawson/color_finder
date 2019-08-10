@@ -1,0 +1,15 @@
+action (My_search) {
+  type(Search)
+  description (searches for the two colors we have to combine)
+  collect {
+    input (color_one) {
+      type (Color_one)
+      min (Optional) max (One)
+    }    
+    input (color_two) {
+      type(Color_two)
+      min(Optional) max (One)
+    } 
+  }
+  output (Color_two)
+}
