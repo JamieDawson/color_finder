@@ -1,0 +1,18 @@
+result-view  {
+  match: My_search  (this){
+    
+  }
+  render  {
+    layout {
+      section {
+        content {
+          single-line {
+            text {
+             value ("#{value(this.combined_color)}")
+            }
+          }
+        }
+      }
+    }
+  }
+}

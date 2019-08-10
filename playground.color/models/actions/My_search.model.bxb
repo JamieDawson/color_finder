@@ -11,5 +11,5 @@ action (My_search) {
       min(Optional) max (One)
     } 
   }
-  output (Color_two)
+  output (combined)
 }

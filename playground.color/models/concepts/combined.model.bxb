@@ -1,0 +1,13 @@
+structure (combined) {
+  description (the struct that returns the color text and image of color)
+  
+  property (combined_color) {
+    type (Color_one)
+    min (Optional) max (One)
+  } 
+   property (image_color) {
+    type (image.Image)
+    min (Optional) max (One)
+    visibility (Private)
+  }
+}
